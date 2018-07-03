@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("First change on master");
             Console.WriteLine("Create branch 123_first_branch");
+            Console.WriteLine("First change on 123_first_branch");
             Console.ReadKey();
         }
     }
