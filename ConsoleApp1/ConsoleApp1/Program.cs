@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("First change on master");
+            Console.WriteLine("Second change on master");
             Console.ReadKey();
         }
     }
