@@ -11,7 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("First vhange on master");
+            Console.WriteLine("First change on master");
+            Console.WriteLine("Create branch 123_first_branch");
             Console.ReadKey();
         }
     }
