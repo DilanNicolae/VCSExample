@@ -18,6 +18,7 @@ namespace ConsoleApp1
             Console.WriteLine("First change on 123_first_branch");
             Console.WriteLine("Second change on 123_first_branch");
             Console.WriteLine("Merge and save all changes");
+            Console.WriteLine("Changes for second stash");
             Console.ReadKey();
         }
     }
