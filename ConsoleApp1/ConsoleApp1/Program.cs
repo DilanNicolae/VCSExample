@@ -20,6 +20,7 @@ namespace ConsoleApp1
             Console.WriteLine("Merge and save all changes");
             Console.WriteLine("Make some changes for stash");
             Console.WriteLine("Another change for stash");
+            jugjh
             Console.ReadKey();
         }
     }
